@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:11,000
+A Data Scientist is a person who uses data to solve problems, uncover patterns and gain
+
+2
+00:00:11,000 --> 00:00:12,000
+insight.
+
+3
+00:00:12,000 --> 00:00:17,200
+They often work in businesses and organizations which gather and curate large datasets.
+
+4
+00:00:17,200 --> 00:00:22,520
+A Data Scientist may leverage knowledge from statistics, computer programming, databases,
+
+5
+00:00:22,520 --> 00:00:26,360
+machine learning and mathematical modeling to achieve their goals.
+
+6
+00:00:26,360 --> 00:00:28,800
+A day in the life of a Data Scientist.
+
+7
+00:00:28,800 --> 00:00:34,400
+First, the Data Scientist needs to understand the business or organizational issues.
+
+8
+00:00:34,400 --> 00:00:36,120
+Then they look for data.
+
+9
+00:00:36,120 --> 00:00:40,720
+They may need to set up an experiment to acquire the data or the data may already exist somewhere
+
+10
+00:00:40,720 --> 00:00:41,720
+in.
+
+11
+00:00:41,720 --> 00:00:46,520
+If an experiment is required, it is important to write down the hypothesis before proceeding.
+
+12
+00:00:46,520 --> 00:00:49,800
+Once the data is gathered, it is checked and cleaned.
+
+13
+00:00:49,800 --> 00:00:52,600
+Then, the right tools for modeling are chosen.
+
+14
+00:00:52,600 --> 00:00:56,600
+For example, R, Python or another software package.
+
+15
+00:00:56,600 --> 00:01:00,480
+The data and results are then analyzed using visualization tools.
+
+16
+00:01:00,480 --> 00:01:06,120
+The Data Scientist is looking for important insights and trends and checking their hypothesis.
+
+17
+00:01:06,120 --> 00:01:10,040
+Statistical tests are used to check the results robust and valid.
+
+18
+00:01:10,040 --> 00:01:16,880
+The learnings, results and insights are communicated to the stakeholders, usually with recommendations.
+
+19
+00:01:16,880 --> 00:01:21,440
+For example, a Data Scientist working for a transport company might identify particular
+
+20
+00:01:21,440 --> 00:01:26,000
+routes that are inefficient and recommend solutions to them more efficient.
+
+21
+00:01:26,000 --> 00:01:30,560
+With the advent of the Data Age, we can all now, with the help of Data Scientist, give
+
+22
+00:01:30,560 --> 00:01:39,600
+better insights and make better data driven decisions.
+
